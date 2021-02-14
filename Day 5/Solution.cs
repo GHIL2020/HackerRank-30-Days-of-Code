@@ -14,7 +14,6 @@ using System;
 
 class Solution 
 {
-
     static void Main(string[] args) 
     {
         int n = Convert.ToInt32(Console.ReadLine());
@@ -26,8 +25,6 @@ class Solution
             {
                 Console.WriteLine(n + " x " + i + " = " + (n * i));
             }
-
         }
-
     }
 }
