@@ -48,10 +48,6 @@ class Solution {
     
                 //Console.WriteLine("my sum: " + sum);
                 max = Math.Max(max,sum);
-                //if(sum > max)
-                //{
-                //    max = sum;
-                //}
             }
         }
         Console.WriteLine(max);
